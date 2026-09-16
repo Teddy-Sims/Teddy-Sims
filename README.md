@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Teddy-Sims/Teddy-Sims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Teddy Sims
 
-Here are some ideas to get you started:
+Operations Leader | MBA Candidate | Business Analytics & Strategy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my professional portfolio. I am an operations leader with experience in military leadership, transportation and service operations, financial services, and human resources.
+
+My professional interests include:
+
+- Operations Management
+- Business Analytics
+- Process Improvement
+- Corporate Strategy
+- Supply Chain & Logistics
+- Organizational Leadership
+
+## Portfolio
+
+- [Professional Bio](BIO.md)
+- [Resume](RESUME.md)
+
+## Projects
+
+Projects and analyses will be added as I continue building this portfolio.
