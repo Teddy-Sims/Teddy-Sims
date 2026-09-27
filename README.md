@@ -1,25 +1,20 @@
-## Hi there 👋
-
 # Teddy Sims
 
-Operations Leader | MBA Candidate | Business Analytics & Strategy
+**Operations Leader | Global MBA Candidate | Army Veteran**
 
-Welcome to my professional portfolio. I am an operations leader with experience in military leadership, transportation and service operations, financial services, and human resources.
-
-My professional interests include:
-
-- Operations Management
-- Business Analytics
-- Process Improvement
-- Corporate Strategy
-- Supply Chain & Logistics
-- Organizational Leadership
+Hi, I’m Teddy Sims. I’m an operations and business professional who enjoys figuring out how people, processes, and systems can work better together. My background spans military leadership, airport and transportation operations, financial services, human resources, and small-business operations. I currently work across HR operations and mobile service delivery while pursuing my Global MBA at the University of Hawaiʻi at Mānoa’s Shidler College of Business. I am especially interested in operations management, business analytics, corporate strategy, supply chain and logistics, process improvement, and organizational leadership. Long term, I want to lead organizations that connect ambitious strategy with disciplined execution and meaningful service.
 
 ## Portfolio
 
+- [Professional Resume](RESUME.md)
 - [Professional Bio](BIO.md)
-- [Resume](RESUME.md)
+- [Capabilities](capabilities/README.md)
+- [Analysis](analysis/README.md)
+- [Data](data/README.md)
+- [Briefs](docs/briefs/README.md)
+- [Decision Documents](docs/decisions/README.md)
 
-## Projects
+## Engagements
 
-Projects and analyses will be added as I continue building this portfolio.
+Portfolio engagements and supporting evidence will be added as they are completed and verified.
+
