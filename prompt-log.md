@@ -23,3 +23,12 @@ The first two entries below were reconstructed on 2026-09-27 from retained conve
 - **What was wrong:** The earlier public repository still contained unfinished placeholders and a broken bio link. Missing facts could not be responsibly invented.
 - **How it was caught:** The live repository was inspected file by file, all internal links were checked against exact filenames, and the correction pack was scanned for leftover template placeholders before packaging.
 
+## 2026-09-27 — Perfect competition engagement brief review
+
+**What I asked:** Review my engagement brief without rewriting it or suggesting replacement wording. Identify implicit assumptions, unsupported claims, three questions a client might ask, and whether my hypothesis was falsifiable.
+
+**What AI produced:** A critique of the brief’s assumptions, supporting logic, economic claims, and falsifiability.
+
+**What was wrong:** The draft required a final review to ensure that the hypothesis could be tested and that the stated assumptions and claims were adequately supported.
+
+**How it was caught:** I reviewed the final brief myself against the case facts and assignment requirements. I did not incorporate the AI critique or use AI-generated wording in my submitted brief.
