@@ -89,3 +89,6 @@ Selected focus areas: operations analytics, forecasting, financial and manageria
 - **Process Improvement:** Lean Six Sigma principles
 - **Technical Tools:** Microsoft Excel, Microsoft PowerPoint, Microsoft Word, and GitHub
 
+---
+
+> **AI-use disclosure:** I used ChatGPT and Codex to help draft, organize, and format this resume. I reviewed and verified the final experience descriptions, metrics, and factual claims before publishing it.
