@@ -80,7 +80,8 @@ Enterprise Operations • Strategic Planning and Execution • Workforce Leaders
 
 Selected focus areas: operations analytics, forecasting, financial and managerial accounting, organizational behavior, services marketing, strategy, and technology-enabled decision-making
 
-### Bachelor of Science in Biochemistry
+### Washington University in St. Louis
+**Bachelor of Science in Biochemistry**
 
 ## Credentials and Tools
 
