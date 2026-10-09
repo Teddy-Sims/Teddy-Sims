@@ -20,3 +20,6 @@ Hi, I’m Teddy Sims. I’m an operations and business professional who enjoys f
 
 Portfolio engagements and supporting evidence will be added as they are completed and verified.
 
+| Engagement | Deliverable | Evidence |
+| :--- | :--- | :--- |
+| Perfect Competition | Engagement brief | [View the committed brief](docs/briefs/perfect-competition-brief.md) |
