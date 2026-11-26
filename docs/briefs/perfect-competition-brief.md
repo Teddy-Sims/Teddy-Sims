@@ -19,7 +19,7 @@ I am assuming market prices will remain fixed. The season will last 36-weeks, no
 
 ## Hypothesis
 
-I expect the optimal mix to be 20 tomato beds, 30 mesclun, and 14 carrots because the crops should be planted. Tomatoes earn the highest of the three crops per bed and even though they have the highest diminishing returns rate, I expect their revenue advantage to initially outweigh the labor disadvantage. I expect that similarly, because mesclun earns more than carrots, and has the lowest diminishing return of the three so I expect it to return a higher profit than the carrots. Out of the 64 beds we have, if 20 are allocated to tomatoes and 30 are allocated to mesclun because of their caps, that leaves 14 beds for carrots. 
+I expect the optimal mix to be 20 tomato beds, 30 mesclun, and 30 carrots because the crops should be planted. Tomatoes earn the highest of the three crops per bed and even though they have the highest diminishing returns rate, I expect their revenue advantage to initially outweigh the labor disadvantage. I expect that similarly, because mesclun earns more than carrots, and has the lowest diminishing return of the three so I expect it to return a higher profit than the carrots.
 
 ## How I would know I was wrong
 
