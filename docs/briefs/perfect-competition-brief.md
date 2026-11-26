@@ -24,3 +24,7 @@ I expect the optimal mix to be 20 tomato beds, 30 mesclun, and 14 carrots becaus
 ## How I would know I was wrong
 
 I would know I was wrong if the proposed mix requires more than 6,480 labor hours, violates the 64 bed limit, or if I identify a more profitable feasible allocation.
+
+## 2026-11-26 - Revised after feedback
+
+I originally named my hypothesis of optimal beds to be 20 tomatoes, 20 carrots and 30 mesclun totaling 70 possible beds across crops with only 64 available. I revised the carrots from 20 to 14 beds to meet the allocated 64 bds. I chose to keep the mesclun and tomatoes at their caps because they earned the most revenue per bed. 
