@@ -32,3 +32,13 @@ The first two entries below were reconstructed on 2026-09-27 from retained conve
 **What was wrong:** The draft required a final review to ensure that the hypothesis could be tested and that the stated assumptions and claims were adequately supported.
 
 **How it was caught:** I reviewed the final brief myself against the case facts and assignment requirements. I did not incorporate the AI critique or use AI-generated wording in my submitted brief.
+
+## 2026-11-26 — Stage 1.1 revisions after 29 September feedback
+
+**What I asked:** Review my engagement brief without rewriting it or suggesting replacement wording. Explain unsupported claims and incorrect assumptions.
+
+**What AI produced:** $20,000 fixed-cost correction, the 1,440 hours per worker, the prices and diminishing-returns rates you added to your reasoning, and the 6,480-hour test.
+
+**What was wrong:** The draft required a final review to ensure that the underlying assumptions of the model were clearly understood and that all feedback points had been responded to.
+
+**How it was caught:** I skipped logging the revision and it was identified in class discussion, then again in the revision feedback sweep from 29 September.
